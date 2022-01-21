@@ -8,6 +8,7 @@ youtube Video [link](https://www.youtube.com/watch?v=mTiOtYgHPzQ)
 
 
 MOBILEVIT paper [link](https://arxiv.org/pdf/2110.02178.pdf)
+![](/results/mobile.PNG)
 
 Mobile net paper  [link](https://arxiv.org/pdf/1704.04861.pdf)
 
@@ -15,11 +16,12 @@ Mobile net paper  [link](https://arxiv.org/pdf/1704.04861.pdf)
 Kaggle -
 
 https://www.kaggle.com/karthikeya14/violence-detection-hockey-fight-mobilevit-lstm
+![](/results/mobvit.PNG)
 
 loss 0.15058283507823944
 accuracy 0.8050000071525574
 
 https://www.kaggle.com/karthikeya14/violence-detection-hockey-fight-mobilenet-lstm
-
+![](/results/mobilenet+lstm.PNG)
 loss 0.02892736904323101
 accuracy 0.9649999737739563
