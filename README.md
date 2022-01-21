@@ -23,5 +23,6 @@ accuracy 0.8050000071525574
 
 https://www.kaggle.com/karthikeya14/violence-detection-hockey-fight-mobilenet-lstm
 ![](/results/mobilenet+lstm.PNG)
+
 loss 0.02892736904323101
 accuracy 0.9649999737739563
